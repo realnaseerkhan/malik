@@ -27,7 +27,7 @@ def main():
     print ''
     print ' \x1b[1;93m     [1] START CLONING\n'
     print ''
-    os.system('xdg-open https://https://www.facebook.com/mrnaseerking')
+    os.system('xdg-open https://www.facebook.com/mrnaseerking')
     log_sel()
 
 
